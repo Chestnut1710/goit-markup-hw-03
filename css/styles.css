@@ -307,6 +307,7 @@ border-radius: 0px 0px 4px 4px;
   flex-direction: row;
   align-items: flex-start;
 row-gap: 48px;
+column-gap: 24px;
   margin-left: 156px;
   margin-top: 72px;
   flex-wrap: wrap;
